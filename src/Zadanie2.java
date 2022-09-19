@@ -19,6 +19,5 @@ public class Zadanie2 {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
-
     }
 }
